@@ -115,7 +115,7 @@ export default async function Home({
                 <div className="flex flex-wrap gap-2 mt-2 text-xs">
                   {remoteOnly && <span className="px-2 py-0.5 rounded-full bg-green-500/10 text-green-600 font-medium border border-green-500/20">Remote Only</span>}
                   {location && location !== "India" && <span className="px-2 py-0.5 rounded-full bg-blue-500/10 text-blue-600 font-medium border border-blue-500/20">{location}</span>}
-                  <span className="px-2 py-0.5 rounded-full bg-secondary/10 text-secondary-foreground font-medium border border-secondary/20">{datePosted}</span>
+                  <span className="px-2 py-0.5 rounded-full bg-secondary/10 text-foreground font-medium border border-secondary/20">{datePosted}</span>
                 </div>
               </div>
               <Suspense>
