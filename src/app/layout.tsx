@@ -12,6 +12,9 @@ const outfit = Outfit({
 export const metadata: Metadata = {
   title: "ShipIntern - Find Your Dream Internship",
   description: "Find the best internships in India's top tech companies and startups.",
+  icons: {
+    icon: "/images/icon.png",
+  },
 };
 
 export default function RootLayout({

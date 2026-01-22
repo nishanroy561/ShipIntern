@@ -44,9 +44,7 @@ export default async function Home({
       <header className="sticky top-0 z-50 w-full border-b border-border/40 bg-background/95 backdrop-blur supports-[backdrop-filter]:bg-background/60">
         <div className="container flex h-16 max-w-7xl items-center justify-between mx-auto px-4 md:px-6">
           <div className="flex items-center gap-2">
-            <div className="h-8 w-8 rounded-lg bg-primary flex items-center justify-center shadow-lg shadow-primary/20">
-              <Sparkles className="h-5 w-5 text-white" />
-            </div>
+            <img src="/images/icon.png" alt="ShipIntern" className="h-12 w-12 rounded-lg shadow-lg shadow-primary/20" />
             <span className="hidden font-bold sm:inline-block text-xl tracking-tight bg-clip-text text-transparent bg-gradient-to-r from-foreground to-muted-foreground">
               ShipIntern
             </span>

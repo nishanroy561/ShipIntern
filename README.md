@@ -1,10 +1,10 @@
 # ShipIntern 🚀
 
-**Find Your Dream Internship in India's Top Tech Companies & Startups.**
+**Find Your Dream Internship in Global Software Engineering market.**
 
-ShipIntern is a modern, real-time internship finder built for the Indian market. It aggregates live opportunities from across the web and boosts the search experience with AI-powered natural language processing.
+ShipIntern is a modern, real-time internship finder built for the global Software Engineering market. It aggregates live opportunities from across the web and boosts the search experience with AI-powered natural language processing.
 
-![ShipIntern Banner](public/og-image.png)
+![ShipIntern Banner](/images/banner.png)
 
 ## ✨ Key Features
 
@@ -63,7 +63,7 @@ ShipIntern is a modern, real-time internship finder built for the Indian market.
 
 | Light Mode | Dark Mode |
 |:---:|:---:|
-| *(Add screenshot here)* | *(Add screenshot here)* |
+| ![Light Mode](/images/light.png) | ![Dark Mode](/images/dark.png) |
 
 ## 🤝 Contributing
 
