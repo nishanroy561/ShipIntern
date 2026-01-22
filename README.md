@@ -63,7 +63,7 @@ ShipIntern is a modern, real-time internship finder built for the global Softwar
 
 | Light Mode | Dark Mode |
 |:---:|:---:|
-| ![Light Mode](/public/images/light.png) | ![Dark Mode](/images/dark.png) |
+| ![Light Mode](/public/images/light.png) | ![Dark Mode](/public/images/dark.png) |
 
 ## 🤝 Contributing
 
