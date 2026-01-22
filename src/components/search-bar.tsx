@@ -89,7 +89,7 @@ export function SearchBar() {
                         "ml-2 flex items-center gap-1 rounded-full px-3 py-1.5 text-xs font-medium transition-all",
                         isAiMode
                             ? "bg-primary text-primary-foreground shadow-md hover:bg-primary/90"
-                            : "bg-secondary/10 text-secondary-foreground hover:bg-secondary/20"
+                            : "bg-secondary/10 text-secondary-foreground dark:text-sky-400 hover:bg-secondary/20"
                     )}
                     title="Toggle AI Search"
                 >
