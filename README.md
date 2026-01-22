@@ -4,7 +4,7 @@
 
 ShipIntern is a modern, real-time internship finder built for the global Software Engineering market. It aggregates live opportunities from across the web and boosts the search experience with AI-powered natural language processing.
 
-![ShipIntern Banner](/images/banner.png)
+![ShipIntern Banner](/public/images/banner.png)
 
 ## ✨ Key Features
 
@@ -63,7 +63,7 @@ ShipIntern is a modern, real-time internship finder built for the global Softwar
 
 | Light Mode | Dark Mode |
 |:---:|:---:|
-| ![Light Mode](/images/light.png) | ![Dark Mode](/images/dark.png) |
+| ![Light Mode](/public/images/light.png) | ![Dark Mode](/images/dark.png) |
 
 ## 🤝 Contributing
 
